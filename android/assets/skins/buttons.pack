@@ -1,0 +1,82 @@
+
+buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lifebar
+  rotate: false
+  xy: 1, 142
+  size: 745, 60
+  orig: 745, 60
+  offset: 0, 0
+  index: -1
+lifebargreen
+  rotate: false
+  xy: 1, 80
+  size: 745, 60
+  orig: 745, 60
+  offset: 0, 0
+  index: -1
+longbutton
+  rotate: false
+  xy: 1, 18
+  size: 335, 60
+  orig: 335, 60
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 748, 136
+  size: 150, 66
+  orig: 150, 66
+  offset: 0, 0
+  index: -1
+cencel
+  rotate: false
+  xy: 900, 125
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 338, 1
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+locked
+  rotate: false
+  xy: 421, 1
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+lvls
+  rotate: false
+  xy: 504, 1
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+ok
+  rotate: false
+  xy: 587, 1
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+repeat
+  rotate: false
+  xy: 670, 1
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+unlocked
+  rotate: false
+  xy: 753, 57
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1

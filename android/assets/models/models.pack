@@ -1,0 +1,138 @@
+
+models.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+birdflu
+  rotate: false
+  xy: 1, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cure
+  rotate: false
+  xy: 1, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cure
+  rotate: false
+  xy: 67, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+cure
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+cure
+  rotate: false
+  xy: 67, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+cure
+  rotate: false
+  xy: 133, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+cure
+  rotate: false
+  xy: 67, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+cure
+  rotate: false
+  xy: 133, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+fag
+  rotate: false
+  xy: 199, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hiv
+  rotate: false
+  xy: 133, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 199, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+redZombi
+  rotate: false
+  xy: 265, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 199, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+zombi
+  rotate: false
+  xy: 265, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+ebola
+  rotate: false
+  xy: 331, 133
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+flu
+  rotate: false
+  xy: 265, 1
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+zombi
+  rotate: false
+  xy: 331, 69
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: 2
+zombi
+  rotate: false
+  xy: 331, 69
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: 4
+zombi
+  rotate: false
+  xy: 393, 135
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: 3
